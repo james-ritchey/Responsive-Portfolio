@@ -246,7 +246,6 @@ a:hover {
         position: relative;
         width: inherit;
         height: auto;
-        max-height: 300px;
         overflow: hidden;
     }
 }
@@ -285,7 +284,6 @@ a:hover {
         position: relative;
         width: inherit;
         height: auto;
-        max-height: 300px;
         overflow: hidden;
     }
 
@@ -340,7 +338,6 @@ a:hover {
         width: 100%;
         margin-bottom: 1em;
         height: auto;
-        max-height: 400px;
     }
 
     .img_container p {
